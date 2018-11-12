@@ -11,7 +11,7 @@ function drawSongs(songs) {
   for (let i = 0; i < songs.length; i++) {
     const song = songs[i]
     template += `
-    <div class="col-4">
+    <div class="col-4 py-3">
       <div class="card">
         <img class="card-img-top" src="${song.albumArt}" alt="Card image cap">
         <div class="card-body">
