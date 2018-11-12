@@ -1,0 +1,11 @@
+.bg{
+  background-image: url("strat.jpg");
+  background-attachment: fixed;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.cursive{
+  font-family: 'Pacifico', cursive;
+  color: whitesmoke; 
+}
